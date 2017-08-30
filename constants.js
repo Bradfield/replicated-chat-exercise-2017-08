@@ -1,0 +1,12 @@
+
+
+const MSG_CODE_PUT_MESSAGE = 'PUT_MESSAGE'
+const MSG_CODE_GET_MESSAGES = 'GET_MESSAGES'
+
+const MSG_STATUS_OK = 'OK'
+
+module.exports = {
+    MSG_CODE_PUT_MESSAGE,
+    MSG_CODE_GET_MESSAGES,
+    MSG_STATUS_OK
+}
